@@ -41,7 +41,7 @@ Divisão
 ![JavaDoc 2023-10-28 155813](https://github.com/dvdlucas/Calculadora-Test-Junit/assets/114704605/d054a1f3-8567-47bb-8d27-7245d4d7d23d)
 
 ## Publicação
-https://github.com/dvdlucas/Calculadora-Test-Junit/new/AnaliseCalculadora
+https://github.com/dvdlucas/Calculadora-Test-Junit/tree/AnaliseCalculadora
 
 ## Ultima Atualização
 28/10/2023
