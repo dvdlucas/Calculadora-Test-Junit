@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar;C:/Users/User/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar;C:/Users/User/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/User/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/User/Documents/NetBeansProjects/calculadoraTestJunit/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/Documents/NetBeansProjects/calculadoraTestJunit/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculadoraTestJunit 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'calculadoraTestJunit 1.0-SNAPSHOT API'
+com.mycompany.calculadoratestjunit
+C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar = 1695428623534
+C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar = 1695428623367
+C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1695428623379
+C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar = 1695428623597
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\src\main\java = 1695429465523
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\allclasses-index.html = 1698519292149
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\allpackages-index.html = 1698519292158
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\copy.svg = 1698519292250
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\element-list = 1698519291949
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\help-doc.html = 1698519292234
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\index-all.html = 1698519292212
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\index.html = 1698519292219
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\jquery-ui.overrides.css = 1698519292327
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\member-search-index.js = 1698519292172
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\module-search-index.js = 1698519292162
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\overview-tree.html = 1698519292068
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\package-search-index.js = 1698519292165
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\script.js = 1698519292245
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\search.js = 1698519292256
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\stylesheet.css = 1698519292241
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\tag-search-index.js = 1698519292175
+C:\Users\User\Documents\NetBeansProjects\calculadoraTestJunit\target\site\apidocs\type-search-index.js = 1698519292168
